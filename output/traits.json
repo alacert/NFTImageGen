@@ -1,0 +1,52 @@
+{
+    "0": {
+        "arm": "none",
+        "eyes": "purple_blue",
+        "front_plate": "none",
+        "background": "blue_red",
+        "mouth": "bubble_gum",
+        "hat": "black_du_rag",
+        "slot_color": "red",
+        "token_id": 0
+    },
+    "1": {
+        "arm": "white_gloves_up",
+        "eyes": "trippy_eyes_1",
+        "front_plate": "none",
+        "background": "disco_4",
+        "mouth": "fire",
+        "hat": "blue_beanie",
+        "slot_color": "blue",
+        "token_id": 1
+    },
+    "2": {
+        "arm": "gold_glove_up",
+        "eyes": "trippy_eyes_2",
+        "front_plate": "none",
+        "background": "salmon",
+        "mouth": "acid_tongue",
+        "hat": "red_mushroom",
+        "slot_color": "yellow",
+        "token_id": 2
+    },
+    "3": {
+        "arm": "white_bottle",
+        "eyes": "inverted_1",
+        "front_plate": "triple_diamonds",
+        "background": "salmon",
+        "mouth": "cash",
+        "hat": "blonde_hair",
+        "slot_color": "green",
+        "token_id": 3
+    },
+    "4": {
+        "arm": "white_gloves_up",
+        "eyes": "inverted_3",
+        "front_plate": "triple_gems",
+        "background": "yellow",
+        "mouth": "cash",
+        "hat": "black_sombrero",
+        "slot_color": "green",
+        "token_id": 4
+    }
+}
